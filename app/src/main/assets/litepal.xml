@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<litepal>
+    <dbname value="XinRuiManage"></dbname>
+    <version value="1"></version>
+    <list>
+        <!--映射模型-->
+        <mapping class="com.client.manage.xinruimanage.db.category"></mapping>
+        <mapping class="com.client.manage.xinruimanage.db.dish"></mapping>
+        <mapping class="com.client.manage.xinruimanage.db.orderForm"></mapping>
+    </list>
+</litepal>
